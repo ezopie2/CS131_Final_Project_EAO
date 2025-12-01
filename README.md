@@ -1,13 +1,6 @@
 # CS131_Final_Project_EAO
 # Battleship (Console) – Java Project
 
-
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-
-
 ---
 
 ## Description
