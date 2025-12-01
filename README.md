@@ -1,8 +1,5 @@
 # CS131_Final_Project_EAO
-# Battleship (Console) – Java Project
-
 ---
-
 ## Description
 This is a console-based implementation of the classic **Battleship** game in Java. Players can compete against a computer AI or another human player.  
 Demonstrates object-oriented programming, interfaces, polymorphism, and exception handling.
