@@ -1,17 +1,12 @@
 # CS131_Final_Project_EAO
 # Battleship (Console) – Java Project
 
-![Java](https://img.shields.io/badge/Language-Java-orange) ![Console Game](https://img.shields.io/badge/Type-Console%20Game-blue)
 
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Gameplay](#gameplay)
-- [Example](#example)
-- [Key Concepts](#key-concepts-demonstrated)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
+
 
 ---
 
